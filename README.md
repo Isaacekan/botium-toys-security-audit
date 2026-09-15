@@ -1,4 +1,4 @@
-# Botium Toys — Internal Security Audit & Risk Assessment
+# Botium Toys  Internal Security Audit & Risk Assessment
 
 Internal security audit and controls/compliance checklist for **Botium Toys**, a fictional small U.S. toy retailer, completed as a hands-on exercise in the **Google Cybersecurity Professional Certificate** (Coursera).
 
