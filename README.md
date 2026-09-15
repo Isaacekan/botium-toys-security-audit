@@ -5,7 +5,7 @@ Internal security audit and controls/compliance checklist for **Botium Toys**, a
 > **Note:** This is a training exercise based on a fictional company scenario provided by the course — not a live client engagement. It's shared here to demonstrate applied understanding of the NIST Cybersecurity Framework, control categories, and compliance requirements.
 
 **Prepared by:** Isaac Ekaniyere
-**Framework referenced:** NIST Cybersecurity Framework (CSF) — Identify function
+**Framework referenced:** NIST Cybersecurity Framework (CSF)  Identify function
 
 📄 Full write-up: [`Botium-Toys-Internal-Security-Audit.pdf`](./Botium-Toys-Internal-Security-Audit.pdf)
 
