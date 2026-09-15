@@ -11,7 +11,7 @@ Internal security audit and controls/compliance checklist for **Botium Toys**, a
 
 ## Scope & Goals
 
-Assess all assets managed by Botium Toys' IT department and complete a controls and compliance checklist to determine what needs to be implemented to improve the company's security posture, using the **NIST CSF — Identify** function as the starting point.
+Assess all assets managed by Botium Toys' IT department and complete a controls and compliance checklist to determine what needs to be implemented to improve the company's security posture, using the **NIST CSF  Identify** function as the starting point.
 
 ## Risk Summary
 
