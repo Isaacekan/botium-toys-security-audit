@@ -15,7 +15,7 @@ Assess all assets managed by Botium Toys' IT department and complete a controls 
 
 ## Risk Summary
 
-**Risk score: 8/10** — driven by a lack of implemented controls and inconsistent adherence to compliance best practices, particularly around cardholder data protection and access control.
+**Risk score: 8/10**  driven by a lack of implemented controls and inconsistent adherence to compliance best practices, particularly around cardholder data protection and access control.
 
 ## Controls Checklist
 
