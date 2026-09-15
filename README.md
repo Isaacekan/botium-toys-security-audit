@@ -21,25 +21,25 @@ Assess all assets managed by Botium Toys' IT department and complete a controls 
 
 | Control | Status | Rationale |
 |---|:---:|---|
-| Least privilege | ** No** | All employees currently have access to internally stored data, including cardholder data and PII/SPII. |
+| Least privilege |  No | All employees currently have access to internally stored data, including cardholder data and PII/SPII. |
 | Disaster recovery plan |  No | No DR plan exists, and no backups of critical data. |
-| Password policy | ** No **| Policy exists but is nominal — doesn't meet minimum complexity standards. |
-| Account management (centralized password mgmt) | ** No** | No centralized system enforcing requirements; resets rely on manual tickets. |
-| Separation of duties | ** No** | Not implemented. |
-| Firewall |  **Yes** | Configured with a defined rule set to block malicious traffic. |
-| IDS/IPS | ** No** | Not installed. |
-| Encryption |  **No **| Cardholder data is stored/transmitted without encryption. |
-| Backups | ** No** | None in place. |
-| Antivirus |  **Yes**| Installed and monitored regularly. |
-| Physical controls (locks, CCTV, fire detection) |**  Yes** | Sufficient locks, up-to-date CCTV, functioning fire systems. |
+| Password policy |  No | Policy exists but is nominal — doesn't meet minimum complexity standards. |
+| Account management (centralized password mgmt) |  No | No centralized system enforcing requirements; resets rely on manual tickets. |
+| Separation of duties |  No | Not implemented. |
+| Firewall |  Yes | Configured with a defined rule set to block malicious traffic. |
+| IDS/IPS |  No | Not installed. |
+| Encryption |  No | Cardholder data is stored/transmitted without encryption. |
+| Backups |  No| None in place. |
+| Antivirus |  Yes| Installed and monitored regularly. |
+| Physical controls (locks, CCTV, fire detection) |  Yes| Sufficient locks, up-to-date CCTV, functioning fire systems. |
 
 ## Compliance Checklist
 
 | Area | Status | Rationale |
 |---|:---:|---|
-| PCI DSS (payment card data) |**  No **| Cardholder data unencrypted and not access-restricted. |
-| SOC (data integrity & availability) |  **Yes** | Availability ensured; integrity controls in place. |
-| GDPR (EU customers) | **Yes** | 72-hour breach notification process in place; documented privacy policies. |
+| PCI DSS (payment card data) |  No | Cardholder data unencrypted and not access-restricted. |
+| SOC (data integrity & availability) |  Yes | Availability ensured; integrity controls in place. |
+| GDPR (EU customers) | Yes | 72-hour breach notification process in place; documented privacy policies. |
 
 ## Recommendations
 
